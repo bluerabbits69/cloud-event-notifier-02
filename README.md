@@ -1,5 +1,7 @@
 # cloud-event-notifier-02
 
+Azure Blob Strage × Azure Functions × Event Grid. 
+Blobに画像がアップロードされるとSlackに通知を送るサンプルコード  
 （100本ノックの第2弾）
 
 ---
